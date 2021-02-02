@@ -28,6 +28,12 @@ edit file app.json dengan kode berikut:
   
     sencha app watch
     
+ Jalankan pada browser dengan alamat:
+  
+    http://localhost:1841
+    
+ 
  Selamat Mencoba.
- Terimakasih
+ 
+ Terimakasih.
   
